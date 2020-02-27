@@ -1,0 +1,31 @@
+body {
+    background-color: rgb(109, 37, 37);
+}
+
+#selectCity-group {
+    display: none;
+}
+
+#selectDistrict-group {
+    display: none;
+}
+
+#message-danger {
+    display: none;
+    position: absolute;
+    font-size: 1rem;
+}
+
+#message-success {
+    display: none;
+    position: absolute;
+    font-size: 1rem;
+}
+
+#mainRow {
+    background-color: #efeeee;
+    margin-top: 15%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border: 1px solid #0062c4;
+}
